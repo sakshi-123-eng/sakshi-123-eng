@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakshi :)</h1>
+<h1 align="center">Hi 👋, Sakshi this side❤️</h1>
 <h3 align="center">An native app developer, experienced in kotlin and java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-123-eng&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-123-eng" /> </p>
@@ -11,13 +11,11 @@
 
 - 🌱 I’m currently learning **from different challenges.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sakshi-123-eng](https://github.com/sakshi-123-eng)
+- 👨‍💻 All of my projects are available at [github](https://github.com/sakshi-123-eng)
 
 - 📝 I have started writing articles on [Medium](https://medium.com/@sakshigupta9237)
 
 - 💬 Ask me about **Android, DSA(C++)**
-
-- 📫 How to reach me [email](sakshigupta82401@gmail.com)
 
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1gJGQOZ1AGfJ-NYqz-6BZ21Or9WXQ223h/view?usp=sharing)
 
