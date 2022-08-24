@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, Sakshi this side❤️</h1>
-<h3 align="center">An native app developer, experienced in kotlin and java.</h3>
+<h3 align="center">An android app developer, experienced in kotlin and java</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sakshi-123-eng&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-123-eng" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-123-eng&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-123-eng" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi-123-eng" alt="sakshi-123-eng" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sakshig53131889" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sakshig53131889?logo=twitter&style=for-the-badge" alt="https://twitter.com/sakshig53131889" /></a> </p>
 
 - 🔭 I’m currently working **on Problem Solving.**
 
@@ -37,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi-123-eng&show_icons=true&locale=en" alt="sakshi-123-eng" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-123-eng&" alt="sakshi-123-eng" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-123-eng&" alt="sakshi-123-eng" /></p>
