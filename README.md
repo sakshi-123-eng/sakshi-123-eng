@@ -13,19 +13,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakshi-123-eng](https://github.com/sakshi-123-eng)
 
-- 📝 I have started writing articles on Medium [https://medium.com/@sakshigupta9237](https://medium.com/@sakshigupta9237)
+- 📝 I have started writing articles on [Medium](https://medium.com/@sakshigupta9237)
 
 - 💬 Ask me about **Android, DSA(C++)**
 
-- 📫 How to reach me **sakshigupta82401@gmail.com**
+- 📫 How to reach me [email](sakshigupta82401@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gJGQOZ1AGfJ-NYqz-6BZ21Or9WXQ223h/view?usp=sharing](https://drive.google.com/file/d/1gJGQOZ1AGfJ-NYqz-6BZ21Or9WXQ223h/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1gJGQOZ1AGfJ-NYqz-6BZ21Or9WXQ223h/view?usp=sharing)
 
 - ⚡ Fun & Lovely fact **I love singing ❤️ and wondering one day to be a singing star🚀.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
